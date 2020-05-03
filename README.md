@@ -1,2 +1,0 @@
-# datasciencecourseera
-about datascience
